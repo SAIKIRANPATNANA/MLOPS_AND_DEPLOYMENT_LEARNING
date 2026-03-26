@@ -1,0 +1,48 @@
+# FROM python:3.8-slim-buster
+# USER root
+# RUN mkdir /app
+# COPY . /app/
+# WORKDIR /app/
+# RUN pip3 install -r requirements.txt
+# ENV AIRFLOW_HOME="/app/airflow"
+# ENV AIRFLOW_CORE_DAGBAG_IMPORT_TIMEOUT=1000
+# ENV AIRFLOW_CORE_ENABLE_XCOM_PICKLING=True
+# RUN airflow db init
+# RUN airflow users create -e saikiranpatnana5143@gmail.com -f saikiran -l patnana -p admin -r Admin -u admin
+# RUN chmod 777 start.sh
+# RUN apt update -y
+# ENTRYPOINT [ "/bin/sh" ]
+# CMD ["start.sh"]
+# Use an official Python runtime as a parent image
+FROM python:3.8-slim-buster
+
+# Set the working directory to /app
+WORKDIR /app
+
+# Copy the current directory contents into the container at /app
+COPY . /app/
+
+# Install any needed packages specified in requirements.txt
+RUN pip3 install --no-cache-dir -r requirements.txt
+
+# Set environment variables for Airflow
+ENV AIRFLOW_HOME="/app/airflow"
+ENV AIRFLOW_CORE_DAGBAG_IMPORT_TIMEOUT=1000
+ENV AIRFLOW_CORE_ENABLE_XCOM_PICKLING=True
+
+# Initialize the Airflow database
+RUN airflow db init
+
+# Create an Airflow admin user
+RUN airflow users create -e saikiranpatnana5143@gmail.com -f saikiran -l patnana -p admin -r Admin -u admin
+
+# Change the permissions of the start.sh script
+RUN chmod +x start.sh
+
+# Expose the required ports if needed
+# EXPOSE <port_number>
+
+# Define the entry point and default command
+ENTRYPOINT [ "/bin/sh" ]
+CMD ["start.sh"]
+

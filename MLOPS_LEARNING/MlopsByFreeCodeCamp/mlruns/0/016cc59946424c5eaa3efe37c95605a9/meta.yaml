@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Documents/ML_DL_PROJECTS/MLOPSProject/mlruns/0/016cc59946424c5eaa3efe37c95605a9/artifacts
+end_time: 1702639226976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 016cc59946424c5eaa3efe37c95605a9
+run_name: masked-toad-653
+run_uuid: 016cc59946424c5eaa3efe37c95605a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702639194340
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/d76799154f934c2a8d07daea2e02998f/artifacts
+end_time: 1705759139687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d76799154f934c2a8d07daea2e02998f
+run_name: serious-wasp-18
+run_uuid: d76799154f934c2a8d07daea2e02998f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705759139672
+status: 3
+tags: []
+user_id: abc

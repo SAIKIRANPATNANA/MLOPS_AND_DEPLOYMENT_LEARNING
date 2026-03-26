@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Documents/ML_DL_PROJECTS/MLOPSProject/mlruns/0/f4a4918dbfb14232aad9253c7c23a09d/artifacts
+end_time: 1703081820061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4a4918dbfb14232aad9253c7c23a09d
+run_name: chill-shad-161
+run_uuid: f4a4918dbfb14232aad9253c7c23a09d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703081672914
+status: 4
+tags: []
+user_id: user

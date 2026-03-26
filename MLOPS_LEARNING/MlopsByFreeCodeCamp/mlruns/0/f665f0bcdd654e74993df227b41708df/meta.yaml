@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Documents/ML_DL_PROJECTS/MLOPSProject/mlruns/0/f665f0bcdd654e74993df227b41708df/artifacts
+end_time: 1703081359701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f665f0bcdd654e74993df227b41708df
+run_name: blushing-ape-319
+run_uuid: f665f0bcdd654e74993df227b41708df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703081146855
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/d303177bc87245a38a4f03d91c43154e/artifacts
+end_time: 1705739547858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d303177bc87245a38a4f03d91c43154e
+run_name: unleashed-slug-38
+run_uuid: d303177bc87245a38a4f03d91c43154e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705739547844
+status: 3
+tags: []
+user_id: abc

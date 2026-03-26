@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Documents/ML_DL_PROJECTS/MLOPSProject/mlruns/0/abe0d1bc4c954c7a80567d9e9fb3a098/artifacts
+end_time: 1703086020386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abe0d1bc4c954c7a80567d9e9fb3a098
+run_name: gregarious-lark-823
+run_uuid: abe0d1bc4c954c7a80567d9e9fb3a098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703085979741
+status: 4
+tags: []
+user_id: user

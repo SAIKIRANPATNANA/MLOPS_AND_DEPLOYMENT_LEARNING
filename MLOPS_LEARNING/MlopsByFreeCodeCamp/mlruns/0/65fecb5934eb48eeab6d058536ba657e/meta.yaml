@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Documents/ML_DL_PROJECTS/MLOPSProject/mlruns/0/65fecb5934eb48eeab6d058536ba657e/artifacts
+end_time: 1703085911368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65fecb5934eb48eeab6d058536ba657e
+run_name: spiffy-carp-967
+run_uuid: 65fecb5934eb48eeab6d058536ba657e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703085860902
+status: 3
+tags: []
+user_id: user

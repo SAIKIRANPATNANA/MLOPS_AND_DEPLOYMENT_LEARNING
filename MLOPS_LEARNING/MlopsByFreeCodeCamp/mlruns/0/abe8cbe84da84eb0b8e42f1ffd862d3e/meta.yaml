@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Documents/ML_DL_PROJECTS/MLOPSProject/mlruns/0/abe8cbe84da84eb0b8e42f1ffd862d3e/artifacts
+end_time: 1703079773843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abe8cbe84da84eb0b8e42f1ffd862d3e
+run_name: efficient-bee-701
+run_uuid: abe8cbe84da84eb0b8e42f1ffd862d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703079740955
+status: 3
+tags: []
+user_id: user

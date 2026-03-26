@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Documents/ML_DL_PROJECTS/MLOPSProject/mlruns/0/c8988f8dedf648da88112e59cbe2d38f/artifacts
+end_time: 1703081672025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8988f8dedf648da88112e59cbe2d38f
+run_name: melodic-zebra-62
+run_uuid: c8988f8dedf648da88112e59cbe2d38f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703081556599
+status: 3
+tags: []
+user_id: user
